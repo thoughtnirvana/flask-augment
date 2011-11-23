@@ -1,4 +1,4 @@
-### augment - Misc. python decorators.
+### flask_augment - Contracts for flask framework. 
 
 #### Installation 
 
