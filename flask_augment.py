@@ -21,7 +21,7 @@ class AugmentError(ValueError):
         """
         return repr(self.errors)
 
-def _propogate_error(errors, handler=None, exception_type=TypeError):
+def _propogate_error(errors, handler=None, exception_type=AugmentError):
     """
     Passes the errors to the handler or raises an exception.
     """
