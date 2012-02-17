@@ -7,7 +7,7 @@ Python decorators for contracts for flask web framework.
 
 from setuptools import setup
 setup(name='Flask-Augment',
-      version='0.4',
+      version='0.5',
       description='Python decorators implementing contracts for flask framework',
       long_description=__doc__,
       author='Rahul Kumar',
